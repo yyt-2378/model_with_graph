@@ -1,4 +1,4 @@
-# Project Name
+# Graph Mode
 
 ## Environment Setup
 
