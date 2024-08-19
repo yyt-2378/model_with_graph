@@ -2,7 +2,7 @@
 
 ## Environment Setup
 
-To set up your environment, please follow the configuration used in the `equiformer` project. For more details, visit the specific repository [here]((https://github.com/atomicarchitects/equiformer)).
+To set up your environment, please follow the configuration used in the `equiformer` project. For more details, visit the specific repository [here]([URL_TO_EQUIFORMER_REPOSITORY](https://github.com/atomicarchitects/equiformer)).
 
 ## Downloading and Configuring the Code
 
